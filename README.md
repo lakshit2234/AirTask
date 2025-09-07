@@ -28,5 +28,5 @@ It combines **computer vision** and **machine learning** to create three powerfu
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/AirTask.git
+   git clone https://github.com/lakshit2234/AirTask
    cd AirTask
